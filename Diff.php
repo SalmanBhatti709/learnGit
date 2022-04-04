@@ -3,6 +3,9 @@
 
 class Diff {
 
+    public function diff() {
+        
+    }
 
 }
 
